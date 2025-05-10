@@ -1,4 +1,4 @@
-import { sum, product, sumOdds } from "./script.js";
+import { sum, product, sumOdds } from "./operacao.js";
 
 let vetor = [1,2,3,4,5,6];
 
